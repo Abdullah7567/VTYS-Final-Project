@@ -43,7 +43,7 @@ Uygulama Windows Forms (C#) ile geliştirilmiş olup veritabanı olarak MySQL ku
 - KütüphaneVTYS/ : Windows Forms kaynak kodları
 
 ## Video ve Rapor
-- YouTube Video Linki: [(Video)](https://www.youtube.com/watch?v=ylYjqGjzeew)
+- YouTube Video Linki: [(Buraya Tıklayınız)](https://www.youtube.com/watch?v=ylYjqGjzeew)
 - Rapor PDF: grup22_rapor.pdf
 
 ## Geliştirenler
