@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CezaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DinamikSorguForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KitapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OduncVerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RaporForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SplashForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeslimAlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UyeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
